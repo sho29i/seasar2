@@ -1,0 +1,8 @@
+DaoType=None
+DefaultResourcePath=/seasar2/src/main/resources
+DefaultRootPackage=com.seasar2.sample
+DefaultSrcPath=/seasar2/src/main/java
+ServletPath=seasar2
+ViewType=None
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
