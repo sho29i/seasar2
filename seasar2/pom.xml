@@ -3,7 +3,7 @@
 	<groupId>com.seasar2.sample</groupId>
 	<artifactId>seasar2</artifactId>
 	<version>0.0.1</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>seasar2</name>
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
